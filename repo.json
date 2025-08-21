@@ -1,0 +1,8 @@
+{
+  "name": "cs-Kekik - Türkçe Eklentiler",
+  "description": "CloudStream için Türkçe içerik sağlayan eklentiler",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Mehmet020202/kekikdeneme5/main/plugins.json"
+  ]
+}
